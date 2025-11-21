@@ -1,1 +1,1 @@
-https://github.com/cheptsovan/ono-tebe-nado
+https://github.com/cheptsovan/ono-tebe-nado/tree/main
